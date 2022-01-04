@@ -17,9 +17,6 @@ Install packages locally inside newsapp/ folder
       
         docker build -t newsapp .
 
-or
-
-        npm run build-docker
 
 - Check the newly created image:
         
